@@ -1,0 +1,67 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body 
+{
+  color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+}
+a {
+  color: #ccc8bb;
+}
+
+h2 {
+  text-align: center;
+}
+
+#header nav li a {
+      background-color: #252525;
+      border-color: #252525;
+}
+
+#header nav li a:hover {
+      background-color: #252525;
+
+}
+
+#header {
+  background-color: #252525;
+  background-image: none;
+  border: none;
+  box-shadow: none;
+}
+
+section {
+ background: white;
+ padding: 0px;
+ background-image: url('/assets/monster7.png');
+ background-repeat: no-repeat;
+ background-position-x: 0;
+ background-position-y: 0;
+}
+
+section .content {
+  padding: 60px;
+}
+
+section #title p {
+  color: #000000;
+  margin: 0px;
+}
+
+section #title {
+ margin-top: 120px;
+}
+
+footer {
+  text-align: center;
+}
+
+.credits {
+  color:white;
+}
