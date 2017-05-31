@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+@media print, screen and (max-width: 480px)  {
+  #header {
+    margin-top: 0px;
+  }
+  nav {
+    display: block;
+  }
+}
+
 body 
 {
   color: #000000;
@@ -12,11 +21,15 @@ h1, h2, h3, h4, h5, h6 {
   color: #000000;
 }
 a {
-  color: #ccc8bb;
+  color: #476cc7;
 }
 
 h2 {
   text-align: center;
+}
+
+.wrapper {
+  padding: 0 5px;
 }
 
 #header nav li a {
@@ -26,7 +39,7 @@ h2 {
 
 #header nav li a:hover {
       background-color: #252525;
-
+      border-color: #ffffff;
 }
 
 #header {
@@ -39,7 +52,7 @@ h2 {
 section {
  background: white;
  padding: 0px;
- background-image: url('/assets/monster7.png');
+ background-image: url('/assets/img/monster.png');
  background-repeat: no-repeat;
  background-position-x: 0;
  background-position-y: 0;
@@ -64,4 +77,8 @@ footer {
 
 .credits {
   color:white;
+}
+
+.credits a {
+  color: #ffffff;
 }
