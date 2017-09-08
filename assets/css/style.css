@@ -16,8 +16,9 @@ h3 {
 .container {
   max-width: 50rem;
   position: relative;
-  background-color: #252525;
-  padding: 0 10px 0 10px;
+  background-color: white;
+  padding: 0px;
+  padding-bottom: 10px;
 }
 
 /* General */
@@ -84,15 +85,33 @@ h3 {
   height: 100%;
 }
 
-#title {
+.monsterous {
+  min-height: 300px;
   background-color: white;
-  padding: 225px 100px;
-  padding-bottom: 40px;
   background-image: url('/assets/img/monster2.png');
   background-repeat: no-repeat;
   background-position-x: 0;
   background-position-y: 0;
   background-size: 400px 250px;
+}
+
+.monsterous-flipped {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  background-color: white;
+  background-image: url('/assets/img/monster-flipped.png');
+  background-repeat: no-repeat;
+  background-position-x: 0;
+  background-position-y: 0;
+  background-size: 350px 250px;
+  width: 350px;
+  height: 300px;
+}
+
+#title {
+  padding: 225px 100px;
+  padding-bottom: 40px;
 }
 
 #title p {
@@ -127,4 +146,31 @@ footer {
 
 .credits a {
   color: #b5b5b5;
+}
+
+/* Sections */
+.section-title-container {
+  position: relative;
+  background-color: white;
+  padding-bottom: 30px;
+}
+
+.section-title h1 {
+  display: inline-block;
+  padding-top: 80px;
+  padding-right: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-bottom-style: solid;
+  border-bottom-width:3px;
+  border-bottom-color: #3e5360;
+  max-width: 440px;
+}
+
+.section-content {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  min-height: 300px;
+  margin-bottom: 10px;
 }

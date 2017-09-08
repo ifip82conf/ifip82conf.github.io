@@ -26,18 +26,19 @@
     {% include header.html %}
 
     <div class="container">
-        <div class="content">
-        <div class="section-title">
-          {{ page.sectiontitle }}
+        <div class="section-title-container">
+            <div class="section-title">
+                <h1>{{ page.sectiontitle }}</h1>
+            </div>
+          <div class="monsterous-flipped">
         </div>
-          <div class="text">
+      </div>
+        <div class="section-content">
           {{ content }}
-          </div>
         </div>
     </div>
   </div>
 
-  {% include footer.html %}
 
     {% if site.google_analytics %}
       <script type="text/javascript">
