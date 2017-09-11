@@ -41,6 +41,9 @@ h3 {
   .circle-btn {
     display: none;
   }
+  .monsterous-flipped {
+    display: none;
+  }
 }
 
 .content {
@@ -174,3 +177,15 @@ footer {
   min-height: 300px;
   margin-bottom: 10px;
 }
+
+/* Content */
+@media (min-width: 760px) {
+  .section-content:before {
+    content: '' ;
+    display:block;
+    float: right;
+    height: 120px;
+    width: 350px;
+  }
+}
+
