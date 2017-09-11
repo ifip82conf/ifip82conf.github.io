@@ -2,6 +2,7 @@
 layout: default
 title: IFIP 8.2 2018
 sectiontitle: Committees
+permalink: committees
 ---
 
 ## Programme chairs
