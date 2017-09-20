@@ -6,7 +6,7 @@ title: IFIP 8.2 2018
 **Program chairs**: Margunn Aanestad (U. of Oslo), Carsten Østerlund (Syracuse U.), Magnus Mähring (Stockholm S. of Econ),
 Kai Riemer (U. of Sydney) & Ulrike Schultze (SMU).
 
-**Keynote**: Lucy Suchman (Lancaster U.) and Paul Edwards (Stanford U.)
+**Keynote**: Lucy Suchman (Lancaster U.) and Paul Edwards (U. of Michigan & Stanford U.)
 
 **Submission deadline**: May 27, 2018
 
@@ -21,7 +21,7 @@ the ability to control any given technology is increasingly limited. Stock marke
 algorithmic trading, are highly visible examples of such algorithmic phenomena (Scott and Orlikowski 2014).
 Have the things we have made become out-of-control juggernauts? Are we living with monsters?
 
-IFIP WG 8.2 has a distinguished history in shaping research agendas around information technology and organisation. For the 2018 working conference, we [call for papers](/files/CPF-170506-final.pdf) from scholars studying information technology and related practices to reflect on the worlds that we help create through our
+IFIP WG 8.2 has a distinguished history in shaping research agendas around information technology and organisation. For the 2018 working conference, we [call for papers](/files/IFIP 8.2-2018-CFP.pdf) from scholars studying information technology and related practices to reflect on the worlds that we help create through our
 research, debates, and teaching. The metaphor of monsters is intended to stimulate a rethinking of our orientation by compelling us to
 consider whether, when and why our creations turn against us, and
 with what implications. 
