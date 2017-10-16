@@ -6,7 +6,7 @@ title: IFIP 8.2 2018
 **Program chairs**: Margunn Aanestad (U. of Oslo), Carsten Østerlund (Syracuse U.), Magnus Mähring (Stockholm S. of Econ),
 Kai Riemer (U. of Sydney) & Ulrike Schultze (SMU).
 
-**Keynote**: Lucy Suchman (Lancaster U.) and Paul Edwards (U. of Michigan & Stanford U.)
+**Keynote**: Lucy Suchman (Lancaster U.) and Paul Edwards (Stanford U. & U. of Michigan)
 
 **Submission deadline**: May 27, 2018
 
