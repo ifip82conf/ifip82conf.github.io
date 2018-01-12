@@ -1,8 +1,9 @@
 ---
 layout: default
-title: IFIP 8.2 2018
+title: Keynote Speakers
 sectiontitle: Keynote Speakers
-permalink: /keynotes
+permalink: /program/keynotes
+published: true
 ---
 
 ## Lucy Suchman
