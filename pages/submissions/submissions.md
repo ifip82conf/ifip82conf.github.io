@@ -16,6 +16,6 @@ All submissions are anonymous and will be double blind reviewed by the conferenc
 
 The main conference proceedings will be published by Springer as a volume of the IFIP ACIT (Advances in Information and Communication Technology) series. An electronic version of the proceedings will be made available to all conference participants free of charge. A hard-cover bound copy of these proceedings will also be available for purchase (as part of your conference registration).
 
-Papers should follow these [author guidelines](http://springer) using the appropriate template from the Springer website.
+Papers should follow these [author guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) using the appropriate template from the Springer website.
 
-[Submit all papers here.](http://springer)  This link brings you to the Springer website which will require you to register to their paper submission system (not the conference) and then log in to submit your paper.  If you have difficulty submitting, please contact [Ulrike Schultze](mailto: uschultz@smu.edu).
+The Springer submission system opens at May 1st, 2018.
