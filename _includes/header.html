@@ -12,10 +12,8 @@
                 <li class="nav-item dropdown">
                     <a class="nav-item nav-link mr-md-2 active" href="/committees">Committees</a>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-item nav-link mr-md-2 active" href="/registration">Registration</a>
-                </li>
-                {% include generateDynamicMenu.html root="/about" title="About" %} {% include generateDynamicMenu.html root="/program" title="Program" %}
+                {% include generateDynamicMenu.html root="/about" title="About" %} 
+                {% include generateDynamicMenu.html root="/program" title="Program" %}
                 <li class="nav-item dropdown">
                     <a class="nav-item nav-link dropdown-toggle mr-md-2 active" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       Submissions
@@ -25,7 +23,6 @@
                         <li><a class="dropdown-item" href="/submission/submission">Paper Submissions</a></li>
                     </ul>
                 </li>
-                {% include generateDynamicMenu.html root="/travel" title="Travel" %}
             </ul>
         </div>
     </nav>

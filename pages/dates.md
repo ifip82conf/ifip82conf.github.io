@@ -8,8 +8,8 @@ published: true
 
 | Event | Date |
 | :------------- |:-----------------------------------|
-| Springer submission system open | 18 May 2018 |
-| Deadline for paper submission | 18 May 2018 |
-| Notification of acceptance/rejection decisions | 18 May 2018  |
-| Deadline for final papers | 18 May 2018 |
-| Date of conference | 18 May 2018 |
+| Springer submission system open | 1 May 2018 |
+| Deadline for paper submission | 27 May 2018 |
+| Notification of acceptance/rejection decisions | 1 August 2018  |
+| Deadline for final papers | 1 September 2018 |
+| Date of conference | 11 & 13 December 2018 |
