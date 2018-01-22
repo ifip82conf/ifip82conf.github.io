@@ -15,7 +15,8 @@ published: true
 
 ## Program committee
 - JP Allen,	University of San Francisco
-- Michel Avital,	Copenhagen Business School
+- Luis Araujo, Manchester Business School
+- Michel Avital, Copenhagen Business School
 - Nick Berente,	University of Georgia
 - Magnus Bergquist,	Halmstad University
 - Mads Bødker, Copenhagen Business School
@@ -24,6 +25,7 @@ published: true
 - Helena Karsten,	Åbo Akademi University
 - Melissa Mezmanian, University of California, Irvine. 
 - Joan Rodon Modol, ESADE Ramon Llull University
+- Emmanuel Monod, Shanghai University of Intl Business and Economics/ Beijing University of Post and Telecom
 - Eric Monteiro, Norwegian University of Science and Technology
 - Benjamin Mueller, University of Groenigen
 - Marko Niemimaa,	University of Jyväskylä
