@@ -18,4 +18,8 @@ The main conference proceedings will be published by Springer as a volume of the
 
 Papers should follow these [author guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) using the appropriate template from the Springer website.
 
-The Springer submission system opens at May 1st, 2018.
+To submit a paper to the conference:
+- [Register](https://ocs.springer.com/ocs/requestregistration) as a user in the Springer submission system
+- [Upload](https://ocs.springer.com/ocs/conference/submitpaperto/ISO2018) the paper through the system
+
+Deadline for paper submission is 27 May 2018. 
