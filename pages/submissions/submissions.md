@@ -7,8 +7,8 @@ published: true
 ---
 
 We invite those interested in participating to submit one of the following:
-- Full research papers (7,000 words maximum). Accepted papers will be published in the conference proceedings.
-- Shorter position papers or posters that engage with an aspect of the conference theme (3,000 words maximum). Accepted short papers will not be published in the proceedings, but made available online before the conference. They will be clustered (thematically, or as juxtapositions) and presented in grouped sessions.  Each short paper will be allocated a 10 min slot for presentation.  
+- Full research papers (7,000 words maximum, including abstract, references, tables, etc). Accepted papers will be published in the conference proceedings.
+- Shorter position papers or posters that engage with an aspect of the conference theme (3,000 words maximum, including abstract, references, tables, etc). Accepted short papers will not be published in the proceedings, but made available online before the conference. They will be clustered (thematically, or as juxtapositions) and presented in grouped sessions.  Each short paper will be allocated a 10 min slot for presentation.  
 
 To facilitate discussion all papers will be made available before the conference.  We will also offer the option to add a link to a video presentation of the paper (webcam quality), which participants can review before arrival.  Both of these formats, together with the conference presentation, should create multiple opportunities for engagement. We would also welcome suggestions for alternative and experimental formats for presenting work and for fostering dialogue at the conference.
 
