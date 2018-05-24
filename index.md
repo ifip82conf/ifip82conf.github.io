@@ -8,7 +8,7 @@ Kai Riemer (U. of Sydney) & Ulrike Schultze (SMU).
 
 **Keynote**: Lucy Suchman (Lancaster U.) and Paul Edwards (Stanford U. & U. of Michigan)
 
-**Submission deadline**: May 27, 2018
+**Submission deadline**: ~~May 27~~ June 1, 2018
 
 Our evolving digital worlds generate both hope and fears. Algorithms, using big data, identify suspicious
 credit card transactions and predict the spread of epidemics, but they also raise concerns about mass

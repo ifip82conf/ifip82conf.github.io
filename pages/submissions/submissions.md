@@ -22,7 +22,7 @@ To submit a paper to the conference:
 - [Register](https://ocs.springer.com/ocs/requestregistration){:target="_blank"} as a user in the Springer submission system
 - [Upload](https://ocs.springer.com/ocs/conference/submitpaperto/ISO2018){:target="_blank"} the paper through the system
 
-Deadline for paper submission is 27 May 2018, at midnight Pacific Time.
+Deadline for paper submission is ~~May 27~~ June 1, 2018, at midnight Pacific Time.
 <div style="width: 80%; margin: auto;">
 <img src="/assets/img/springer.png" alt="Logo" style="padding: 25px; padding-bottom: 35px;"/>
 <img src="/assets/img/ocs-logo.png" alt="Logo" style="width: 170px; padding: 25px" />
