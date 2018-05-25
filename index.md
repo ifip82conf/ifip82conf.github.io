@@ -10,6 +10,8 @@ Kai Riemer (U. of Sydney) & Ulrike Schultze (SMU).
 
 **Submission deadline**: ~~May 27~~ June 1, 2018
 
+**Location**: San Francisco State University
+
 Our evolving digital worlds generate both hope and fears. Algorithms, using big data, identify suspicious
 credit card transactions and predict the spread of epidemics, but they also raise concerns about mass
 surveillance and systematically perpetuated biases. Social media platforms allow us to stay connected with
