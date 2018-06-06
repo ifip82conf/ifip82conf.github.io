@@ -8,7 +8,7 @@ Kai Riemer (U. of Sydney) & Ulrike Schultze (SMU).
 
 **Keynote**: Lucy Suchman (Lancaster U.) and Paul Edwards (Stanford U. & U. of Michigan)
 
-**Submission deadline**: ~~May 27~~ June 1, 2018
+**Submission deadline**: June 1, 2018
 
 **Location**: San Francisco State University
 
@@ -29,3 +29,12 @@ consider whether, when and why our creations turn against us, and
 with what implications. 
 
 The working conference will feature the panel [Studying “Sociomateriality”: An Exploration of Constructs in the Making](/program/panel), chaired by Wanda Orlikowski (MIT). The panelists Dubrava Cecez-Kecmanovic (University of New South Wales), Silvia Gherardi (Trento University) and Susan Scott (LSE) will offer a constructive exploration of the specific ideas and practices that guide their research studies.
+
+**Sponsored by:**
+<div style="width: 100%; margin: auto;">
+<img src="/assets/img/HOI_logo_Black.png" alt="Logo" class="sponsor-style" />
+<img src="/assets/img/CoxRBrgb.png" alt="Logo" class="sponsor-style-banner" />
+<img src="/assets/img/USydneyLogoFooter.png" alt="Logo" class="sponsor-style" />
+<img src="/assets/img/MN_IFI_A_ENG.png" alt="Logo" class="sponsor-style-banner" />
+<img src="/assets/img/springer.png" alt="Logo" class="sponsor-style" />
+</div>

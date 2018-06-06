@@ -37,6 +37,16 @@ h3 {
     text-align: center;
 }
 
+.sponsor-style {
+    width: 150px; 
+    padding: 15px;
+}
+
+.sponsor-style-banner {
+    width: 225px; 
+    padding: 15px;
+}
+
 
 /* Content */
 
