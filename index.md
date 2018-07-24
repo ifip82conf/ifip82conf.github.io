@@ -8,8 +8,6 @@ Kai Riemer (U. of Sydney) & Ulrike Schultze (SMU).
 
 **Keynote**: Lucy Suchman (Lancaster U.) and Paul Edwards (Stanford U. & U. of Michigan)
 
-**Submission deadline**: June 1, 2018
-
 **Location**: San Francisco State University
 
 Our evolving digital worlds generate both hope and fears. Algorithms, using big data, identify suspicious
