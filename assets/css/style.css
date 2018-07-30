@@ -126,6 +126,12 @@ h3 {
     height: 200px;
 }
 
+.mappy {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
 #title {
     padding: 225px 100px;
     padding-bottom: 40px;
