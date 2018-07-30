@@ -17,7 +17,7 @@ h3 {
     position: relative;
     background-color: white;
     padding: 0px;
-    padding-bottom: 10px;
+    min-height: 400px;
 }
 
 
@@ -191,12 +191,15 @@ footer {
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 50px;
-    min-height: 300px;
     margin-bottom: 10px;
 }
 
 .section-content h2 {
     color: #1f465f;
+}
+
+ol {
+    padding-left: 20px;
 }
 
 th,
