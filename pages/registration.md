@@ -14,6 +14,6 @@ Every effort has been made to keep the registration fee as low as possible. Regi
 | Student registration: | $250 (before October 21, 2018); $300 afterwards |
 
 Conference Proceedings (hard copy):  $35
- 
-**Registration opening soon!**
+ <br /><br /><br />
+**Please register and place your payment at  [the SMU Marketplace site (touchnet.net)](https://secure.touchnet.net/C21403_ustores/web/product_detail.jsp?PRODUCTID=1175&SINGLESTORE=true){:target="_blank"}.**
 
