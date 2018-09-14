@@ -2,7 +2,7 @@
 layout: default
 title: Important Dates
 sectiontitle: Important Dates
-permalink: /dates
+permalink: about/dates
 published: true
 ---
 

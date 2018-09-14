@@ -2,7 +2,7 @@
 layout: default
 title: Committees
 sectiontitle: Committees
-permalink: /committees
+permalink: about/committees
 published: true
 ---
 
