@@ -14,7 +14,7 @@ Please note that the program is subject to minor changes
 {:.schedule}
 | 8:30                                                             | **Registration opens**                                                                                                                 |                                                        
 | 9:00                                                             | **Welcome**                                                                                                                     |                                                                                                                                                                  |
-| 9:15                                                             | **Keynote: Lucy Suchman**                                                                                                                |                                                                                                                                                                  |
+| 9:15                                                             | **[Keynote: Lucy Suchman](/files/abstracts/Abstract_1.pdf)**                                                                                                                |                                                                                                                                                                  |
 | 10:45                                                            | **Coffee Break**                                                                                                 | 
 |  |             |
 
@@ -123,7 +123,7 @@ Please note that the program is subject to minor changes
 
 {:.schedule}
 | 8:30  | **Registration opens**                                                             |
-| 9:00  | **Keynote: Paul Edwards**                                                          |
+| 9:00  | **[Keynote: Paul Edwards](/files/abstracts/Abstract_26.pdf)**                                                          |
 | 10:30 | **Coffee Break**                                                                   |
 |  |             |
 
