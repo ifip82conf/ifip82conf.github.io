@@ -235,6 +235,14 @@ table {
     border-bottom-style: solid;
 }
 
+.schedule {
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.schedule td {
+    padding: 0px 15px 0px 0px;
+}
 
 /* Content */
 
