@@ -23,9 +23,9 @@ Please note that the program is subject to minor changes
 
 {:.schedule}
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 11:15 | [Thinking with Monsters](/files/abstract.pdf#page=2)                                                                                                             |
+| 11:15 | [Thinking with Monsters](/files/abstracts/Abstract_2.pdf)                                                                                                             |
 |             | Dirk S Hovorka, Sandra Peter                                                                                                                                     |
-| 11:45 | [A Bestiary of Digital Monsters](/files/abstract.pdf#page=3)                                                                                                     |
+| 11:45 | [A Bestiary of Digital Monsters](/files/abstracts/Abstract_3.pdf)                                                                                                     |
 |             | Rachel Douglas-Jones, Marisa Cohn, Christopher Gad, James Maguire, John Mark Burnett, Jannick Schou, Michael Hockenhull, Bastian Jørgensen, Brit Ross Winthereik |
 
 {:.schedule}
@@ -36,13 +36,13 @@ Please note that the program is subject to minor changes
 **Panel: Monstrous Materialities**
 
 {:.schedule}
-| 1:30 | [Monstrous images of the past: photorealism and non-photorealism in archaeological information work](/files/abstract.pdf#page=4) |
+| 1:30 | [Monstrous images of the past: photorealism and non-photorealism in archaeological information work](/files/abstracts/Abstract_4.pdf) |
 |           | Isto Huvila                                                                                                                      |
-| 1:45 | [Available to Meet: Advances in Professional Communications](/files/abstract.pdf#page=5)                                         |
+| 1:45 | [Available to Meet: Advances in Professional Communications](/files/abstracts/Abstract_5.pdf)                                         |
 |           | E Swanson                                                                                                                        |
-| 2:00 | [Many eyed monsters and their lure:  Surveillance, seduction, and governmentality](/files/abstract.pdf#page=6)                   |
+| 2:00 | [Many eyed monsters and their lure:  Surveillance, seduction, and governmentality](/files/abstracts/Abstract_6.pdf)                   |
 |           | Shyam Krishna                                                                                                                    |
-| 2:15 | [The Monstrous Playbooks of Academic Publishers – An Opinion Piece](/files/abstract.pdf#page=7)                                  |
+| 2:15 | [The Monstrous Playbooks of Academic Publishers – An Opinion Piece](/files/abstracts/Abstract_7.pdf)                                  |
 |           | Stefan Klein, Ojelanki Ngwenyama, Simeon Vidolov                                                                                 |
 | 2:30 | Panel discussion                                                                                                                 |
 
@@ -55,11 +55,11 @@ Please note that the program is subject to minor changes
 **Paper Session 2: Implications of algorithmic decision-making**
 
 {:.schedule}
-| 3:30   | [Algorithmic Pollution: Understanding and Responding to Negative Consequences of Algorithmic Decision-making](/files/abstract.pdf#page=8)                        |
+| 3:30   | [Algorithmic Pollution: Understanding and Responding to Negative Consequences of Algorithmic Decision-making](/files/abstracts/Abstract_8.pdf)                        |
 |             | Olivera Marjanovic, Dubravka Cecez-Kecmanovic, Richard Vidgen                                                                                                    |
-| 4:00   | [Quantifying Quality: Algorithmic Knowing Under Uncertainty](/files/abstract.pdf#page=9)                                                                         |
+| 4:00   | [Quantifying Quality: Algorithmic Knowing Under Uncertainty](/files/abstracts/Abstract_9.pdf)                                                                         |
 |             | Eric Monteiro, Elena Parmiggiani, Thomas Østerlie, Marius Mikalsen                                                                                               |
-| 4:30   | [Understanding the Impact of Transparency on Algorithmic Decision Making Legitimacy ](/files/abstract.pdf#page=10)                                               |
+| 4:30   | [Understanding the Impact of Transparency on Algorithmic Decision Making Legitimacy ](/files/abstracts/Abstract_10.pdf)                                               |
 |             | David Goad, Uri Gal                                                                                                                                              |
 |  |             |
 
@@ -79,41 +79,41 @@ Please note that the program is subject to minor changes
 
 {:.schedule}
 | *Stream A - Data and Algorithms in Healthcare*                                                                                                            |
-| [Dating with Monsters: the Practices of Big Data in Healthcare](/files/abstract.pdf#page=11)                                                                |
+| [Dating with Monsters: the Practices of Big Data in Healthcare](/files/abstracts/Abstract_11.pdf)                                                                |
 | Marthe Stevens, Rik Wehrens, Antoinette de Bont                                                                                                             |
-| [Algorithmic Decision-making in the US Healthcare Industry](/files/abstract.pdf#page=12)                                                                    |
+| [Algorithmic Decision-making in the US Healthcare Industry](/files/abstracts/Abstract_12.pdf)                                                                    |
 | Marco Marabelli, Sue Newell, Xinru Page                                                                                                                     |
-| [The Healthcare AI Juggernaut:  Is PHI Data Governance Possible? ](/files/abstract.pdf#page=13)                                                             |
+| [The Healthcare AI Juggernaut:  Is PHI Data Governance Possible? ](/files/abstracts/Abstract_13.pdf)                                                             |
 | Jenifer Winter, Liz Davidson                                                                                                                                |
-| [Painting a false picture in high definition: attributing Cesarean Sections to individual clinicians ](/files/abstract.pdf#page=14)                         |
+| [Painting a false picture in high definition: attributing Cesarean Sections to individual clinicians ](/files/abstracts/Abstract_14.pdf)                         |
 | Kathleen Pine, Melissa Mazmanian                                                                                                                            |
 |                                                                                                                                                             |
 | *Stream B - Conceptual and philosophical matters*                                                                                                           |
-| [“Feminized or Feminine?” Artificial Intelligence Cyborg Feminism: From Performativity to Existentialism and Phenomenology](/files/abstract.pdf#page=15)    |
+| [“Feminized or Feminine?” Artificial Intelligence Cyborg Feminism: From Performativity to Existentialism and Phenomenology](/files/abstracts/Abstract_15.pdf)    |
 | Emmanuel Monod, Robert Davison, Elisabeth Joyce                                                                                                             |
-| [Living with monsters: Introducing experience to the theorizing of sociomaterial entanglement](/files/abstract.pdf#page=16)                                 |
+| [Living with monsters: Introducing experience to the theorizing of sociomaterial entanglement](/files/abstracts/Abstract_16.pdf)                                 |
 | Irina Popova, Chris ivory, Anette Hallin                                                                                                                    |
-| [Four Perspectives to Conceptualizing Material Agency  for Studying Technology in Organizations](/files/abstract.pdf#page=17)                               |
+| [Four Perspectives to Conceptualizing Material Agency  for Studying Technology in Organizations](/files/abstracts/Abstract_17.pdf)                               |
 | Sarah Lebovitz, Natalia Levina                                                                                                                              |
-| [Designing affordances as four-ways negotiation: illuminating the role of affect and discourse](/files/abstract.pdf#page=18)                                |
+| [Designing affordances as four-ways negotiation: illuminating the role of affect and discourse](/files/abstracts/Abstract_18.pdf)                                |
 | Edouard Pignot, Mark Thompson                                                                                                                               |
 |                                                                                                                                                             |
 | *Stream C - The Business of Algorithms*                                                                                                                     |
-| [Project Managing as Assembling Efforts: Findings from an Enterprise System Implementation Project](/files/abstract.pdf#page=19)                            |
+| [Project Managing as Assembling Efforts: Findings from an Enterprise System Implementation Project](/files/abstracts/Abstract_19.pdf)                            |
 | Yukika Awazu, Sue Newell                                                                                                                                    |
-| [The Arrival of Algorithmic Phenomena into Business Culture: Exploring The Future of Entrepreneurship and Accountability](/files/abstract.pdf#page=20)      |
+| [The Arrival of Algorithmic Phenomena into Business Culture: Exploring The Future of Entrepreneurship and Accountability](/files/abstracts/Abstract_20.pdf)      |
 | JP Allen                                                                                                                                                    |
-| [Unsanitary Practice: What Does Programming Have to Do with Beauty](/files/abstract.pdf#page=21)                                                            |
+| [Unsanitary Practice: What Does Programming Have to Do with Beauty](/files/abstracts/Abstract_21.pdf)                                                            |
 | Marina Fedorova                                                                                                                                             |
 |                                                                                                                                                             |
 | *Stream D - New Digital Phenomena*                                                                                                                          |
-| [The Digital Making of Real Monsters: The Escalation Process of Online Commitment to an Antisocial Identity](/files/abstract.pdf#page=22)                   |
+| [The Digital Making of Real Monsters: The Escalation Process of Online Commitment to an Antisocial Identity](/files/abstracts/Abstract_22.pdf)                   |
 | Christine Abdalla Mikhaeil, Richard Baskerville                                                                                                             |
-| [A (Not-Just-Virtual) Space of Our Own: Exploring the Sociomaterial Constitution of a ‘Space of Re-sistance’ through Facebook](/files/abstract.pdf#page=23) |
+| [A (Not-Just-Virtual) Space of Our Own: Exploring the Sociomaterial Constitution of a ‘Space of Re-sistance’ through Facebook](/files/abstracts/Abstract_23.pdf) |
 | Mahya Ostovar                                                                                                                                               |
-| [Temporality and sociomaterial assemblages as agential cuts: Reflecting on the becoming ontology of digital medicines ](/files/abstract.pdf#page=24)        |
+| [Temporality and sociomaterial assemblages as agential cuts: Reflecting on the becoming ontology of digital medicines ](/files/abstracts/Abstract_24.pdf)        |
 | Valerie Handunge, Eivor Oborn-Barrett, Michael Barrett                                                                                                      |
-| [Semiotic Overflow across Boundaries: Performativity of ‘Monstrous’ Mobile Apps](/files/abstract.pdf#page=25)                                               |
+| [Semiotic Overflow across Boundaries: Performativity of ‘Monstrous’ Mobile Apps](/files/abstracts/Abstract_25.pdf)                                               |
 | Divya Sharma, Agam Gupta, Biswatosh Saha                                                                                                                    |
 |                                                                                                               |
 
@@ -131,11 +131,11 @@ Please note that the program is subject to minor changes
 **Paper session 3: Algorithmic systems in context**
 
 {:.schedule}
-| 11:00 | [Advancing to the Next Level: Caring for Evaluative Metrics Monsters in Academia and Healthcare](/files/abstract.pdf#page=30)                                    |
+| 11:00 | [Advancing to the Next Level: Caring for Evaluative Metrics Monsters in Academia and Healthcare](/files/abstracts/Abstract_30.pdf)                                    |
 |             | Iris Wallenburg, Wolfgang Kaltenbrunner, Björn Hammarfeldt, Sarah de Rijcke, Roland Bal                                                                          |
-| 11:30 | [Hotspots and Blind Spots: A Case of Predictive Policing in Practice](/files/abstract.pdf#page=31)                                                               |
+| 11:30 | [Hotspots and Blind Spots: A Case of Predictive Policing in Practice](/files/abstracts/Abstract_31.pdf)                                                               |
 |             | Lauren Waardenburg, Anastasia Sergeeva, Marleen Huysman                                                                                                          |
-| 12:00 | [Objects, Metrics and Practices: An Inquiry into the Programmatic Advertising Eco-system](/files/abstract.pdf#page=32)                                           |
+| 12:00 | [Objects, Metrics and Practices: An Inquiry into the Programmatic Advertising Eco-system](/files/abstracts/Abstract_32.pdf)                                           |
 |             | Cristina Alaimo, Jannis Kallinikos                                                                                                                               |
 |  |             |
 
@@ -149,9 +149,9 @@ Please note that the program is subject to minor changes
 **Paper session 4: Hybrid Agency and the Performativity of Technology**
 
 {:.schedule}
-| 3:30   | [Re-figuring Gilbert the Drone](/files/abstract.pdf#page=33)                                                                                                     |
+| 3:30   | [Re-figuring Gilbert the Drone](/files/abstracts/Abstract_33.pdf)                                                                                                     |
 |             | Stefan Olofsson, Mads Boedker, Torkil Clemmensen                                                                                                                 |
-| 4:00   | [Making a Difference in ICT research: Feminist theorization of sociomateriality and the diffraction methodology](/files/abstract.pdf#page=34)                    |
+| 4:00   | [Making a Difference in ICT research: Feminist theorization of sociomateriality and the diffraction methodology](/files/abstracts/Abstract_34.pdf)                    |
 |             | Amany Elbanna                                                                                                                                                    |
 |  |             |
 
