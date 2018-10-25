@@ -26,7 +26,7 @@ Please note that the program is subject to minor changes
 | 11:15 | [Thinking with Monsters](/files/abstracts/Abstract_2.pdf)                                                                                                             |
 |             | Dirk S Hovorka, Sandra Peter                                                                                                                                     |
 | 11:45 | [A Bestiary of Digital Monsters](/files/abstracts/Abstract_3.pdf)                                                                                                     |
-|             | Rachel Douglas-Jones, Marisa Cohn, Christopher Gad, James Maguire, John Mark Burnett, Jannick Schou, Michael Hockenhull, Bastian Jørgensen, Brit Ross Winthereik |
+|             | Rachel Douglas-Jones, John Mark Burnett, Marisa Cohn, Christopher Gad, Michael Hockenhull, Bastian Jørgensen, James Maguire, Mace Ojala, Brit Ross Winthereik |
 
 {:.schedule}
 | 12:15 | **Lunch**            |
@@ -141,7 +141,7 @@ Please note that the program is subject to minor changes
 
 {:.schedule}
 | 12:30 | **Lunch**                                                                         |
-| 1:30  | **Panel: Studying "Sociomateriality": An Exploration of Constructs in the Making (Orlikowski, Scott, Cecez-Kecmanovic, Gherardi)** |
+| 1:30  | **Panel: Studying "Sociomateriality": An Exploration of Constructs in the Making (Orlikowski, Scott, Cecez-Kecmanovic, Monteiro)** |
 | 3:00  | **Coffee Break**                                                                   |
 |  |             |
 

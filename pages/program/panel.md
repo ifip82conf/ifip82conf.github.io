@@ -14,5 +14,5 @@ The panel will focus on how we work with materiality in our research studies. Go
 
 ## Panelists
 - Dubrava Cecez-Kecmanovic (University of New South Wales)
-- Silvia Gherardi (Trento University)
+- Eric Monteiro (Norwegian University of Science and Technology)
 - Susan Scott (LSE)
