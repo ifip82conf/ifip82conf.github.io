@@ -13,6 +13,6 @@ The panel will focus on how we work with materiality in our research studies. Go
 - Wanda Orlikowski (MIT)
 
 ## Panelists
-- Dubrava Cecez-Kecmanovic (University of New South Wales)
+- Dubravka Cecez-Kecmanovic (University of New South Wales)
 - Eric Monteiro (Norwegian University of Science and Technology)
 - Susan Scott (LSE)

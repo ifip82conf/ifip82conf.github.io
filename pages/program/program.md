@@ -99,8 +99,6 @@ Please note that the program is subject to minor changes
 | Edouard Pignot, Mark Thompson                                                                                                                               |
 |                                                                                                                                                             |
 | *Stream C - The Business of Algorithms*                                                                                                                     |
-| [Project Managing as Assembling Efforts: Findings from an Enterprise System Implementation Project](/files/abstracts/Abstract_19.pdf)                            |
-| Yukika Awazu, Sue Newell                                                                                                                                    |
 | [The Arrival of Algorithmic Phenomena into Business Culture: Exploring The Future of Entrepreneurship and Accountability](/files/abstracts/Abstract_20.pdf)      |
 | JP Allen                                                                                                                                                    |
 | [Unsanitary Practice: What Does Programming Have to Do with Beauty](/files/abstracts/Abstract_21.pdf)                                                            |
