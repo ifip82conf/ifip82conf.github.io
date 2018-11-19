@@ -103,6 +103,8 @@ Please note that the program is subject to minor changes
 | JP Allen                                                                                                                                                    |
 | [Unsanitary Practice: What Does Programming Have to Do with Beauty](/files/abstracts/Abstract_21.pdf)                                                            |
 | Marina Fedorova                                                                                                                                             |
+| [Semiotic Overflow across Boundaries: Performativity of ‘Monstrous’ Mobile Apps](/files/abstracts/Abstract_25.pdf)                                               |
+| Divya Sharma, Agam Gupta, Biswatosh Saha                                                                                                                    |
 |                                                                                                                                                             |
 | *Stream D - New Digital Phenomena*                                                                                                                          |
 | [The Digital Making of Real Monsters: The Escalation Process of Online Commitment to an Antisocial Identity](/files/abstracts/Abstract_22.pdf)                   |
@@ -111,8 +113,6 @@ Please note that the program is subject to minor changes
 | Mahya Ostovar                                                                                                                                               |
 | [Temporality and sociomaterial assemblages as agential cuts: Reflecting on the becoming ontology of digital medicines ](/files/abstracts/Abstract_24.pdf)        |
 | Valerie Handunge, Eivor Oborn-Barrett, Michael Barrett                                                                                                      |
-| [Semiotic Overflow across Boundaries: Performativity of ‘Monstrous’ Mobile Apps](/files/abstracts/Abstract_25.pdf)                                               |
-| Divya Sharma, Agam Gupta, Biswatosh Saha                                                                                                                    |
 |                                                                                                               |
 
 
