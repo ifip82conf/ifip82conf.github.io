@@ -21,6 +21,8 @@ Please note that the program is subject to minor changes
 {:.schedule}
 **Paper Session 1: Living with Monsters**
 
+Chair: Benjamin Müller
+
 {:.schedule}
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11:15 | [Thinking with Monsters](/files/abstracts/Abstract_2.pdf)                                                                                                             |
@@ -34,6 +36,8 @@ Please note that the program is subject to minor changes
 
 {:.schedule}
 **Panel: Monstrous Materialities**
+
+Chair: Edgar Whitley
 
 {:.schedule}
 | 1:30 | [Monstrous images of the past: photorealism and non-photorealism in archaeological information work](/files/abstracts/Abstract_4.pdf) |
@@ -53,6 +57,8 @@ Please note that the program is subject to minor changes
 
 {:.schedule}
 **Paper Session 2: Implications of algorithmic decision-making**
+
+Chair: Eleanor Wynne
 
 {:.schedule}
 | 3:30   | [Algorithmic Pollution: Understanding and Responding to Negative Consequences of Algorithmic Decision-making](/files/abstracts/Abstract_8.pdf)                        |
@@ -128,6 +134,8 @@ Please note that the program is subject to minor changes
 {:.schedule}
 **Paper session 3: Algorithmic systems in context**
 
+Chair: Kevin Crowston
+
 {:.schedule}
 | 11:00 | [Advancing to the Next Level: Caring for Evaluative Metrics Monsters in Academia and Healthcare](/files/abstracts/Abstract_30.pdf)                                    |
 |             | Iris Wallenburg, Wolfgang Kaltenbrunner, Björn Hammarfeldt, Sarah de Rijcke, Roland Bal                                                                          |
@@ -146,6 +154,8 @@ Please note that the program is subject to minor changes
 {:.schedule}
 **Paper session 4: Hybrid Agency and the Performativity of Technology**
 
+Chair: David Avison
+
 {:.schedule}
 | 3:30   | [Re-figuring Gilbert the Drone](/files/abstracts/Abstract_33.pdf)                                                                                                     |
 |             | Stefan Olofsson, Mads Boedker, Torkil Clemmensen                                                                                                                 |
@@ -154,7 +164,8 @@ Please note that the program is subject to minor changes
 |  |             |
 
 {:.schedule}
-| 4:30  | **Closing/Wrap Up**                                                                |
+| 4:30  | **Reflections on IFIP 8.2 (1984-2018): David Avison**                                                                |
+| 4:35  | **Closing/Wrap Up**                                                                |
 | 5:00  | **Business Meeting**                                                               |
 | 5:30  | End                                                                            |
 | 6:45  | **Boarding Hornblower cruise ship - Pier 3, On the Embarcadero at Washington St.** |

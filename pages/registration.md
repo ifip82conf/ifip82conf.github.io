@@ -15,5 +15,5 @@ Every effort has been made to keep the registration fee as low as possible. Regi
 
 Conference Proceedings (hard copy):  $35
  <br /><br /><br />
-**Please register and place your payment at  [the SMU Marketplace site (touchnet.net)](https://secure.touchnet.net/C21403_ustores/web/product_detail.jsp?PRODUCTID=1175&SINGLESTORE=true){:target="_blank"}.**
+**Due to high demand for places, we regret to say that have now reached our full capacity for the conference.**
 

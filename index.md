@@ -26,7 +26,7 @@ research, debates, and teaching. The metaphor of monsters is intended to stimula
 consider whether, when and why our creations turn against us, and
 with what implications. 
 
-The working conference will feature the panel [Studying “Sociomateriality”: An Exploration of Constructs in the Making](/program/panel), chaired by Wanda Orlikowski (MIT). The panelists Dubrava Cecez-Kecmanovic (University of New South Wales), Silvia Gherardi (Trento University) and Susan Scott (LSE) will offer a constructive exploration of the specific ideas and practices that guide their research studies.
+The working conference will feature the panel [Studying “Sociomateriality”: An Exploration of Constructs in the Making](/program/panel), chaired by Wanda Orlikowski (MIT). The panelists Dubrava Cecez-Kecmanovic (University of New South Wales), Eric Monteiro (Norwegian University of Science and Technology) and Susan Scott (LSE) will offer a constructive exploration of the specific ideas and practices that guide their research studies.
 
 **Sponsored by:**
 <div style="width: 100%; margin: auto;">
