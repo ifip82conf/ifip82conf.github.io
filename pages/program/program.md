@@ -85,6 +85,7 @@ Chair: Eleanor Wynne
 
 {:.schedule}
 | *Stream A - Data and Algorithms in Healthcare*                                                                                                            |
+| Chairs: Steven Alter                                                                                                           |
 | [Dating with Monsters: the Practices of Big Data in Healthcare](/files/abstracts/Abstract_11.pdf)                                                                |
 | Marthe Stevens, Rik Wehrens, Antoinette de Bont                                                                                                             |
 | [Algorithmic Decision-making in the US Healthcare Industry](/files/abstracts/Abstract_12.pdf)                                                                    |
@@ -95,6 +96,7 @@ Chair: Eleanor Wynne
 | Kathleen Pine, Melissa Mazmanian                                                                                                                            |
 |                                                                                                                                                             |
 | *Stream B - Conceptual and philosophical matters*                                                                                                           |
+| Chairs: Lars Mathiassen and Peter Axel Nielsen                                                                                                           |
 | [“Feminized or Feminine?” Artificial Intelligence Cyborg Feminism: From Performativity to Existentialism and Phenomenology](/files/abstracts/Abstract_15.pdf)    |
 | Emmanuel Monod, Robert Davison, Elisabeth Joyce                                                                                                             |
 | [Living with monsters: Introducing experience to the theorizing of sociomaterial entanglement](/files/abstracts/Abstract_16.pdf)                                 |
@@ -105,18 +107,20 @@ Chair: Eleanor Wynne
 | Edouard Pignot, Mark Thompson                                                                                                                               |
 |                                                                                                                                                             |
 | *Stream C - The Business of Algorithms*                                                                                                                     |
+| Chairs: Eija Karsten                                                                                                          |
 | [The Arrival of Algorithmic Phenomena into Business Culture: Exploring The Future of Entrepreneurship and Accountability](/files/abstracts/Abstract_20.pdf)      |
 | JP Allen                                                                                                                                                    |
 | [Unsanitary Practice: What Does Programming Have to Do with Beauty](/files/abstracts/Abstract_21.pdf)                                                            |
 | Marina Fedorova                                                                                                                                             |
 | [Semiotic Overflow across Boundaries: Performativity of ‘Monstrous’ Mobile Apps](/files/abstracts/Abstract_25.pdf)                                               |
-| Divya Sharma, Agam Gupta, Biswatosh Saha                                                                                                                    |
+| Divya Sharma, Agam Gupta, Biswatosh Saha (Facilitators: Ingrid Erickson)                                                                                                                    |
 |                                                                                                                                                             |
 | *Stream D - New Digital Phenomena*                                                                                                                          |
+| Chairs: Karlheinz Kautz and Lena Hylving                                                                                                         |
 | [The Digital Making of Real Monsters: The Escalation Process of Online Commitment to an Antisocial Identity](/files/abstracts/Abstract_22.pdf)                   |
 | Christine Abdalla Mikhaeil, Richard Baskerville                                                                                                             |
 | [A (Not-Just-Virtual) Space of Our Own: Exploring the Sociomaterial Constitution of a ‘Space of Re-sistance’ through Facebook](/files/abstracts/Abstract_23.pdf) |
-| Mahya Ostovar                                                                                                                                               |
+| Mahya Ostovar (Facilitators: Mari-Klara Stein and Sirkka Jarvenpaa)                                                                                                                                               |
 | [Temporality and sociomaterial assemblages as agential cuts: Reflecting on the becoming ontology of digital medicines ](/files/abstracts/Abstract_24.pdf)        |
 | Valerie Handunge, Eivor Oborn-Barrett, Michael Barrett                                                                                                      |
 |                                                                                                               |

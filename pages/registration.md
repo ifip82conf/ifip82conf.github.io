@@ -15,5 +15,5 @@ Every effort has been made to keep the registration fee as low as possible. Regi
 
 Conference Proceedings (hard copy):  $35
  <br /><br /><br />
-**Due to high demand for places, we regret to say that have now reached our full capacity for the conference.**
+**Due to high demand for places, we regret to say that have now reached our full capacity for the conference. If you would like to be put on a waiting list, in case of late cancellations, please email Ulrike Schultze ([uschultz@mail.cox.smu.edu](mailto:uschultz@mail.cox.smu.edu)).**
 
