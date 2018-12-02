@@ -12,11 +12,12 @@ Please note that the program is subject to minor changes
 ## Tuesday, 11 December 2018
 
 {:.schedule}
-| 8:30                                                             | **Registration opens**                                                                                                                 |                                                        
-| 9:00                                                             | **Welcome**                                                                                                                     |                                                                                                                                                                  |
-| 9:15                                                             | **[Keynote: Lucy Suchman](/files/abstracts/Abstract_1.pdf)**                                                                                                                |                                                                                                                                                                  |
-| 10:45                                                            | **Coffee Break**                                                                                                 | 
-|  |             |
+| 8:30  | **Registration opens**    |                                                        
+| 9:00  | **Welcome**               |
+| 9:15  | **[Keynote: Lucy Suchman](/files/abstracts/Abstract_1.pdf)**  |
+|       | Chair: Kai Riemer         |
+| 10:45 | **Coffee Break**          | 
+|       |                           |
 
 {:.schedule}
 **Paper Session 1: Living with Monsters**
@@ -58,7 +59,7 @@ Chair: Edgar Whitley
 {:.schedule}
 **Paper Session 2: Implications of algorithmic decision-making**
 
-Chair: Eleanor Wynne
+Chair: Eleanor Wynn
 
 {:.schedule}
 | 3:30   | [Algorithmic Pollution: Understanding and Responding to Negative Consequences of Algorithmic Decision-making](/files/abstracts/Abstract_8.pdf)                        |
@@ -107,7 +108,7 @@ Chair: Eleanor Wynne
 | Edouard Pignot, Mark Thompson                                                                                                                               |
 |                                                                                                                                                             |
 | *Stream C - The Business of Algorithms*                                                                                                                     |
-| Chairs: Eija Karsten                                                                                                          |
+| Chairs: Eija Karsten and Paul Hart                                                                                                          |
 | [The Arrival of Algorithmic Phenomena into Business Culture: Exploring The Future of Entrepreneurship and Accountability](/files/abstracts/Abstract_20.pdf)      |
 | JP Allen                                                                                                                                                    |
 | [Unsanitary Practice: What Does Programming Have to Do with Beauty](/files/abstracts/Abstract_21.pdf)                                                            |
@@ -131,7 +132,8 @@ Chair: Eleanor Wynne
 
 {:.schedule}
 | 8:30  | **Registration opens**                                                             |
-| 9:00  | **[Keynote: Paul Edwards](/files/abstracts/Abstract_26.pdf)**                                                          |
+| 9:00  | **[Keynote: Paul Edwards](/files/abstracts/Abstract_26.pdf)**                      |
+|   | Chair: Margunn Aanestad                      |
 | 10:30 | **Coffee Break**                                                                   |
 |  |             |
 
@@ -151,7 +153,8 @@ Chair: Kevin Crowston
 
 {:.schedule}
 | 12:30 | **Lunch**                                                                         |
-| 1:30  | **Panel: Studying "Sociomateriality": An Exploration of Constructs in the Making (Orlikowski, Scott, Cecez-Kecmanovic, Monteiro)** |
+| 1:30  | **Panel: Studying "Sociomateriality": An Exploration of Constructs in the Making** |
+|       | **Wanda Orlikowski, Susan Scott, Dubravka Cecez-Kecmanovic, Eric Monteiro** |
 | 3:00  | **Coffee Break**                                                                   |
 |  |             |
 
