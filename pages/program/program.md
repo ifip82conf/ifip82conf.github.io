@@ -85,7 +85,7 @@ Chair: Eleanor Wynne
 
 {:.schedule}
 | *Stream A - Data and Algorithms in Healthcare*                                                                                                            |
-| Chairs: Steven Alter                                                                                                           |
+| Chairs: Steven Alter and Lynne Markus                                                                                                          |
 | [Dating with Monsters: the Practices of Big Data in Healthcare](/files/abstracts/Abstract_11.pdf)                                                                |
 | Marthe Stevens, Rik Wehrens, Antoinette de Bont                                                                                                             |
 | [Algorithmic Decision-making in the US Healthcare Industry](/files/abstracts/Abstract_12.pdf)                                                                    |
@@ -113,7 +113,7 @@ Chair: Eleanor Wynne
 | [Unsanitary Practice: What Does Programming Have to Do with Beauty](/files/abstracts/Abstract_21.pdf)                                                            |
 | Marina Fedorova                                                                                                                                             |
 | [Semiotic Overflow across Boundaries: Performativity of ‘Monstrous’ Mobile Apps](/files/abstracts/Abstract_25.pdf)                                               |
-| Divya Sharma, Agam Gupta, Biswatosh Saha (Facilitators: Ingrid Erickson)                                                                                                                    |
+| Divya Sharma, Agam Gupta, Biswatosh Saha (Facilitators: Ingrid Erickson and Michael Myers)                                                                                                                    |
 |                                                                                                                                                             |
 | *Stream D - New Digital Phenomena*                                                                                                                          |
 | Chairs: Karlheinz Kautz and Lena Hylving                                                                                                         |
