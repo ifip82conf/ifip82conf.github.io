@@ -10,6 +10,8 @@ Kai Riemer (U. of Sydney) & Ulrike Schultze (SMU).
 
 **Location**: San Francisco State University
 
+**Proceedings**: Available as [book](https://link.springer.com/book/10.1007%2F978-3-030-04091-8) and [online](https://www.springer.com/gp/book/9783030040901)
+
 Our evolving digital worlds generate both hope and fears. Algorithms, using big data, identify suspicious
 credit card transactions and predict the spread of epidemics, but they also raise concerns about mass
 surveillance and systematically perpetuated biases. Social media platforms allow us to stay connected with
